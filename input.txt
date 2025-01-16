@@ -1,0 +1,10 @@
+int main() {    
+    int x, y, c;
+    x = 5;
+    c = 1;
+    y = x + 3;
+    for (x = 0; x < y; x + 1) {
+        c = c + 1;
+        }
+    return c;
+}
